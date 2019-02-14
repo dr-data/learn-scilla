@@ -1,0 +1,1 @@
+{"version":3,"file":"3.css","sources":["webpack:///./src/containers/chapter-list-container/style.css"],"sourcesContent":[".chapter-list-container {\n  padding-top: 80px;\n  padding-bottom: 200px;\n}\n"],"mappings":"AAAA;AACA;AACA;AACA;;","sourceRoot":""}
